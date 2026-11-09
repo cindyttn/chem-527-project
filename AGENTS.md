@@ -28,6 +28,6 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: Can UV-Vis absorption spectra be used to predict the concentrations of multiple chemical compounds in a mixture?
+- Data: Chemcial_Data_for_PLS.csv ,  Measurements of the concentrations of different chemicals present in the water, Measurements of how much ultraviolet and visible light the water samples absorb at different wavelengths.
+- Measured variable: Chemical concentration, Amount of a chemical in the water, Depends on chemical measurement, UV-Vis absorbance, Amount of light absorbed, Dimensionless (often AU), Wavelength, Wavelength of light used, Nanometers (nm)
